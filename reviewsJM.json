@@ -1,0 +1,105 @@
+{
+  "reviews": [
+    {
+      "rating": 5,
+      "review_text": "I can't get enough of Jersey Mike's! Their subs are simply outstanding. The bread is always fresh, and the fillings are flavorful and abundant. The staff is friendly and efficient, making the whole experience enjoyable. Highly recommended!",
+      "reviewer_name": "Emily Johnson"
+    },
+    {
+      "rating": 4,
+      "review_text": "Jersey Mike's Sub Shop never fails to satisfy my cravings. The subs are consistently good, and the service is reliable. The only reason I'm not giving it five stars is that the prices could be a bit more competitive.",
+      "reviewer_name": "Mark Thompson"
+    },
+    {
+      "rating": 5,
+      "review_text": "Wow! Jersey Mike's Sub Shop knows how to make a killer sub. The flavors are on point, and the ingredients are always fresh. I love the variety of toppings and sauces available. Keep up the excellent work!",
+      "reviewer_name": "Sarah Adams"
+    },
+    {
+      "rating": 3,
+      "review_text": "I had high expectations for Jersey Mike's, but it fell a bit short. The subs were decent, but they lacked that wow factor. The service was average, nothing remarkable. It's an okay place for a quick bite, but I'm not sure if I'll be a regular.",
+      "reviewer_name": "Michael Williams"
+    },
+    {
+      "rating": 4,
+      "review_text": "Jersey Mike's Sub Shop is my go-to spot for a tasty sub. The bread is always fresh and perfectly toasted. The meat is flavorful and piled high. The only reason I'm not giving it five stars is that the prices can be a bit steep.",
+      "reviewer_name": "Jennifer Martinez"
+    },
+    {
+      "rating": 5,
+      "review_text": "Jersey Mike's never disappoints! The subs are consistently delicious and made with high-quality ingredients. The staff is friendly and provides excellent service. It's my favorite sub place in town!",
+      "reviewer_name": "David Thompson"
+    },
+    {
+      "rating": 3,
+      "review_text": "I recently tried Jersey Mike's, and it was just okay. The subs were decent, but nothing extraordinary. The bread was a bit dry, and the fillings lacked flavor. The service was quick, though.",
+      "reviewer_name": "Amy Roberts"
+    },
+    {
+      "rating": 5,
+      "review_text": "I'm a big fan of Jersey Mike's Sub Shop! The sandwiches are always made to perfection. The bread is soft, the toppings are fresh, and the meats are delicious. Plus, the staff is friendly and attentive. Highly recommend!",
+      "reviewer_name": "John Davis"
+    },
+    {
+      "rating": 4,
+      "review_text": "Jersey Mike's is a solid choice for a sub. The sandwiches are tasty, and the service is efficient. However, I wish they had more vegetarian options. Overall, a reliable place for a satisfying meal.",
+      "reviewer_name": "Samantha Green"
+    },
+    {
+      "rating": 4,
+      "review_text": "I've been going to Jersey Mike's Sub Shop for years, and it never disappoints. The subs are consistently good, and the bread is always fresh. The only downside is that it can get quite crowded during lunchtime.",
+      "reviewer_name": "Ryan Johnson"
+{
+  "reviews": [
+    {
+      "rating": 2,
+      "review_text": "I had high hopes for this sub shop, but it fell short of my expectations. The sub was average at best, with lackluster flavors and stale bread. The service was slow and unimpressive. I won't be returning.",
+      "reviewer_name": "Samantha Mitchell"
+    },
+    {
+      "rating": 3,
+      "review_text": "Tried their sub of the day, but it was nothing special. The bread was dry, and the fillings were meager. It seemed like they rushed to make it. Disappointing overall.",
+      "reviewer_name": "Nicholas Anderson"
+    },
+    {
+      "rating": 2,
+      "review_text": "The sub I ordered was a complete letdown. The bread was stale, and the toppings were wilted. The overall taste was bland. Definitely not worth the price.",
+      "reviewer_name": "Isabella Clark"
+    },
+    {
+      "rating": 3,
+      "review_text": "The quality of the sub was below average. The meat lacked flavor, and the vegetables were soggy. The staff seemed disinterested and inattentive. Won't be returning.",
+      "reviewer_name": "William Reed"
+    },
+    {
+      "rating": 2,
+      "review_text": "I had a sub from this shop, and it was mediocre at best. The bread was doughy, and the toppings were uninspiring. I expected more for the price I paid. Not recommended.",
+      "reviewer_name": "Sophia Turner"
+    },
+    {
+      "rating": 3,
+      "review_text": "The sub I had was average. It lacked the wow factor. The ingredients didn't taste fresh, and the sandwich was poorly assembled. I've had better elsewhere.",
+      "reviewer_name": "Henry Mitchell"
+    },
+    {
+      "rating": 2,
+      "review_text": "I was disappointed with the sub I ordered. The bread was hard, and the fillings were skimpy. The overall taste was underwhelming. Won't be going back anytime soon.",
+      "reviewer_name": "Victoria Campbell"
+    },
+    {
+      "rating": 3,
+      "review_text": "I had a sub from this place, and it was nothing special. The flavors were mediocre, and the portion size was small for the price. I expected better quality.",
+      "reviewer_name": "Benjamin Jenkins"
+    },
+    {
+      "rating": 2,
+      "review_text": "The sub I had was subpar. The bread was dry and lacked freshness. The fillings were bland and lacked flavor. I wouldn't recommend this place.",
+      "reviewer_name": "Lillian Griffin"
+    },
+    {
+      "rating": 3,
+      "review_text": "I found the sub I had here to be mediocre. The ingredients were average, and the sandwich lacked excitement. The service was okay but nothing noteworthy.",
+      "reviewer_name": "Samuel Hughes"
+    }
+  ]
+}

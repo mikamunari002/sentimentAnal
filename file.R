@@ -21,7 +21,29 @@ form=  wordStem(form)
 
 cleanedTxt = form
 head(cleanedTxt)
-
+##sentiment scores using different sentiment lexicons
+#syuzhet score
 syu_score = get_sentiment(cleanedTxt, method = "syuzhet")
 head(syu_score)
 summary(syu_score)
+#bing score
+bing_score = get_sentiment(cleanedTxt, method = "bing")
+head(bing_score)
+summary(bing_score)
+#afinn score
+afinn_score = get_sentiment(cleanedTxt, method = "afinn")
+head(afinn_score)
+summary(afinn_score)
+#nrc score
+nrc_score = get_sentiment(cleanedTxt, method = "nrc")
+head(nrc_score) 
+summary(nrc_score)
+##all scores matrix
+comb_score = cbind(syu_score, bing_score, afinn_score, nrc_score)
+all_methDf = as.data.frame(comb_score)
+head(all_methDf)
+
+
+##analysis
+
+
